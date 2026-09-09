@@ -1,0 +1,13 @@
+# VS缓存与编译产物
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.log
+# 系统垃圾文件
+.DS_Store
+Thumbs.db

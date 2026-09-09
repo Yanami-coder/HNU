@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HNU/HNU.vcxproj" Id="f6c4678c-3b6b-4ce3-aa75-fc3fc17830ac" />
+</Solution>
