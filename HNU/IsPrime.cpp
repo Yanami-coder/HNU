@@ -12,6 +12,7 @@ int main() {
 	cin >> n;
 	if (n == 1) {
 		cout << 1 << " is not a Prime Number or Composite Number." << endl;
+		return 0;
 	}
 	i = n + 1;
 	if (Prime(n)) cout << n << " is a Prime Number." << endl;
