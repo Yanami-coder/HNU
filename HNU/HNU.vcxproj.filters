@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="The m-th power of n.cpp">
+    <ClCompile Include="n%d==0.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
