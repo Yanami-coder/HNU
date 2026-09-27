@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="n%d==0.cpp">
+    <ClCompile Include="Yutu%27s Echo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
