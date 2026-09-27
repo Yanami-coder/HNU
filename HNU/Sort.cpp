@@ -42,9 +42,9 @@ void quick(int a[], int l, int r) {
 			i++;
 			j--;
 		}
-		if (l < j) quick(a, l, j);
-		if (i < r) quick(a, i, r);
 	}
+	if (l < j) quick(a, l, j);
+	if (i < r) quick(a, i, r);
 }
 
 void bucket(int a[], int n) {
