@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Yutu%27s Echo.cpp">
+    <ClCompile Include="Searching for prime number subsets.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
