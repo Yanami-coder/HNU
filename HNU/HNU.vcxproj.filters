@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Searching for prime number subsets.cpp">
+    <ClCompile Include="KMP Search.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
