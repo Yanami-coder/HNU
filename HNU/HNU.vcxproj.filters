@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KMP Search.cpp">
+    <ClCompile Include="Product of Isolated Elements.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
