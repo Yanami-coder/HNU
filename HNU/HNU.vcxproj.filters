@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Product of Isolated Elements.cpp">
+    <ClCompile Include="Partition Equal Subset Sum problem.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
